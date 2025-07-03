@@ -26,7 +26,7 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 ## 🤖 Projet 4 : Modèle de Machine Learning et Analyse de Données Semestre 4 Licence 2 Module Science des Données 2
 - 📁 Dossier : [`Projet Science des Données 2 Semestre 4`](https://github.com/Siwar2904/siwarportfolio2/blob/86411e9757ae80c876a7c9c10ea4010f2337e237/rapportL2S1.pdf)
 - 🧰 Langages et Outils utilisés : Python/ R / Excel / SQL
-- 📌 Description : Comment le sexe et la localisation g´eographique influencent-ils l’incidence et la manifestation des pathologies ?
+- 📌 Description : Comment le sexe et la localisation géographique influencent-ils l’incidence et la manifestation des pathologies ?
 
 
 ## 🤖 Projet 5 : Modèle de Machine Learning et Analyse de Données Semestre 3 Licence 2 Module Science des Données 1
