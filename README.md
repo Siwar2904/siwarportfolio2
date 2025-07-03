@@ -8,8 +8,9 @@ Bienvenue sur mon portfolio. Vous trouverez ici mes projets réalisés tout au l
 
 ## 📊 Projet 1 : Rapport de Stage CHU MONTPELLIER Service ERIOS
 - 📁 Dossier : [`Rapport de Stage Fin Licence`](https://github.com/Siwar2904/siwarportfolio2/blob/5fd1040f113b65ae19ace214eb31f78221908aae/stage%20(13).pdf)
-- 🧰 Langages : Python / JSON / SQL / Make
-- 📌 Description : Collecte de données, pré-traitement-nettoyage via Scripts Python / Automatisation de tâches via le logiciel MAKE
+- 🧰 Langages : Python / SQL / Excel
+- 📌 Description : Évaluation de l’interface d’un chatbot et de la simplification des textes médicaux par des modèles de langage à destination des patients.
+
 
 ---
 ## 🤖 Projet 2 : Modèle de Machine Learning et Analyse de Données Semestre 6 Module Science des Données 4
